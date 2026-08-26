@@ -1,33 +1,40 @@
-# 🌌 NUBULA CODAX (NCX) — SOVEREIGN 100% NATIVE PLATFORM
-### *The Ultimate Autarkic, Paranoid, Zero-Python Standalone Computational Architecture*
-
-```
-                                  🌌 NUBULA CODAX
+🌌 NUBULA CODAX (NCX) — SOVEREIGN 100% NATIVE PLATFORMThe Ultimate Autarkic, Paranoid, Zero-Python Standalone Computational Architecture                                    🌌 NUBULA CODAX
                                          │
         ┌────────────────────────────────┼────────────────────────────────┬────────────────────────────────┐
         ▼                                ▼                                ▼                                ▼
-1. Absolute Autarky            2. Paranoid Defense             3. Grand 70+ Registry           4. 100% Native Toolchain
-   ├─ Zero Python / Zero FFI      ├─ Cryptographic Traps          ├─ 75 State Variables           ├─ Native ncxc.exe Compiler
-   ├─ Hermetic Sanctuary Bubble   ├─ SHA-512 Annihilation         ├─ 8 Mathematical Categories    ├─ Direct g++ C++20 Codegen
-   └─ Strict Non-Coercion         └─ Anti-Decompiler Vortex       └─ Full Invariant Proofs        └─ Standalone .exe Binaries
-```
+1. Absolute Autarky              2. Paranoid Defense              3. Grand 70+ Registry            4. 100% Native Toolchain
+   ├─ Zero Python / Zero FFI        ├─ Cryptographic Traps           ├─ 75 State Variables            ├─ Native ncxc.exe Compiler
+   ├─ Hermetic Sanctuary Bubble     ├─ SHA-512 Annihilation          ├─ 8 Mathematical Categories     ├─ Direct g++ C++20 Codegen
+   └─ Strict Non-Coercion           └─ Anti-Decompiler Vortex        └─ Full Invariant Proofs         └─ Standalone .exe Binaries
+🛡️ 1. Core Architectural Directives
+🚫 I. Zero Python Policy (Complete Eradication)
+NubulaCodax does not contain, invoke, or wrap Python. The compiler (ncxc.exe), the runtime environment, the lexer, parser, type checker, the integrated IDE (NCSE), and the security defense matrix are 100% written and compiled in native C++20.
 
----
+🔒 II. Pure Autarky & Paranoid Defense
+The system rejects any foreign FFI, alien library bindings, or unprotected dynamic bridges. Any attempt to inject un-sanctified tokens or third-party hooks immediately triggers a Cryptographic Annihilation Response with a SHA-512 forensic isolation footprint.
 
-## 🛡️ 1. Core Architectural Directives
+📐 III. The Grand Registry of 70+ Sovereign State Variables
+NubulaCodax natively implements, tracks, and verifies a monumental state registry of 75 strictly-typed sovereign variables across 8 mathematical categories.
 
-### 🚫 I. Zero Python Policy (Complete Eradication)
-NubulaCodax does not contain, invoke, or wrap Python. The compiler (`ncxc.exe`), the runtime environment, the lexer, parser, type checker, and security defense matrix are **100% written and compiled in native C++20**.
+🖥️ 2. The Native Mauve Terminal & Ncodax Daemon
+NubulaCodax features its own independent global shell styled in deep night violet and lavender neon, operating completely outside of traditional OS shells like PowerShell or CMD.
 
-### 🔒 II. Pure Autarky & Paranoid Defense
-The system rejects any foreign FFI, alien library bindings, or unprotected dynamic bridges. Any attempt to inject un-sanctified tokens immediately triggers a **Cryptographic Annihilation Response** with a SHA-512 forensic isolation footprint.
+The Ncodax Daemon (ncodax): An invisible background watchdog running at a 250ms cadence to secure the sanctuary. If unauthorized debugging or interception is detected, it forces an immediate memory purge.
 
-### 📐 III. The Grand Registry of 70+ Sovereign State Variables
-NubulaCodax natively implements, tracks, and verifies a monumental state registry of **75 strictly-typed sovereign variables** across 8 mathematical categories.
+Sovereign Command Dictionary:
 
----
+dax : Supreme initialization sesame; awakens the daemon and unlocks the mauve terminal.
 
-## 🔢 2. The 75 Sovereign State Variables Catalog
+compile <file.ncx> : Invokes the internal transpiler and verifies the 75+ state registers.
+
+audit : Executes a real-time integrity and autarky scan on the source code.
+
+status : Displays daemon logs, secure memory health, and cryptographic canary metrics.
+
+shield on : Force-activates Maximum Protection Mode (locks down the sandbox).
+
+exit : Cleanly terminates the session and wipes temporary RAM traces.
+## 🔢 3. The 75 Sovereign State Variables Catalog
 
 | Category | Count | Types & Sovereign State Variables |
 | :--- | :---: | :--- |
@@ -39,33 +46,19 @@ NubulaCodax natively implements, tracks, and verifies a monumental state registr
 | **6. Monads & Chaotic Fluxes** | 10 | `EntropyVector`, `EntropyMonad`, `ProbabilisticMonad`, `NonLinearFlux`, `LorentzAttractorFlux`, `MarkovChainMonad`, `StochasticDiffusionFlux`, `DynamicalEntropyStream`, `ErgodicMonadCodex`, `HamiltonianFlux` |
 | **7. Quantum Entanglement** | 10 | `AxiomaticQubit`, `QuantumRegister`, `DensityMatrixCodex`, `BellStateRegister`, `GHZStateCodex`, `WStateRegister`, `QuantumFourierMonad`, `BlochSphereVector`, `MajoranaFermionCodex`, `TopologicalQubit` |
 | **8. Cryptographic Sanctuaries** | 5 | `FormalProof`, `SovereignSignature`, `AntiPollutionVortex`, `CryptographicVault`, `ParanoidTrap` |
+⚡ 4. Native CLI Reference (ncxc.exe)
+The compiler is a standalone Windows binary ncxc.exe:
 
----
-
-## ⚡ 3. Native CLI Reference (`ncxc.exe`)
-
-The compiler is a standalone Windows binary `ncxc.exe`:
-
-### 🔨 Compile to Standalone Native `.exe`
-```cmd
+🔨 Compile to Standalone Native .exe
+DOS
 ncxc.exe compile NubulaCodax.ncx -o NubulaCodax.exe
-```
-
-### 🚀 Compile and Run Directly
-```cmd
+🚀 Compile and Run Directly
+DOS
 ncxc.exe run NubulaCodax.ncx
-```
-
-### 🔍 Verify AST & Formal Invariants
-```cmd
+🔍 Verify AST & Formal Invariants
+DOS
 ncxc.exe verify NubulaCodax.ncx
-```
-
----
-
-## 📜 4. Master Sovereign Program (`NubulaCodax.ncx`)
-
-```ncx
+📜 5. Master Sovereign Program (NubulaCodax.ncx)
 sovereign nexus GrandPantheonRegistry version 1.0.0 sealed;
 
 domain GrandPantheonDomain {
@@ -85,4 +78,3 @@ domain GrandPantheonDomain {
         seal 0;
     }
 }
-```

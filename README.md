@@ -50,6 +50,8 @@ exit : Cleanly terminates the session and wipes temporary RAM traces.
 | **6. Monads & Chaotic Fluxes** | 10 | `EntropyVector`, `EntropyMonad`, `ProbabilisticMonad`, `NonLinearFlux`, `LorentzAttractorFlux`, `MarkovChainMonad`, `StochasticDiffusionFlux`, `DynamicalEntropyStream`, `ErgodicMonadCodex`, `HamiltonianFlux` |
 | **7. Quantum Entanglement** | 10 | `AxiomaticQubit`, `QuantumRegister`, `DensityMatrixCodex`, `BellStateRegister`, `GHZStateCodex`, `WStateRegister`, `QuantumFourierMonad`, `BlochSphereVector`, `MajoranaFermionCodex`, `TopologicalQubit` |
 | **8. Cryptographic Sanctuaries** | 5 | `FormalProof`, `SovereignSignature`, `AntiPollutionVortex`, `CryptographicVault`, `ParanoidTrap` |
+
+
 ⚡ 4. Native CLI Reference (ncxc.exe)
 The compiler is a standalone Windows binary ncxc.exe:
 

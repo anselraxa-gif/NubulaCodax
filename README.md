@@ -64,6 +64,8 @@ ncxc.exe run NubulaCodax.ncx
 🔍 Verify AST & Formal Invariants
 DOS
 ncxc.exe verify NubulaCodax.ncx
+
+
 📜 5. Master Sovereign Program (NubulaCodax.ncx)
 sovereign nexus GrandPantheonRegistry version 1.0.0 sealed;
 

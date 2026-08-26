@@ -1,4 +1,6 @@
-🌌 NUBULA CODAX (NCX) — SOVEREIGN 100% NATIVE PLATFORMThe Ultimate Autarkic, Paranoid, Zero-Python Standalone Computational Architecture                                    🌌 NUBULA CODAX
+🌌 NUBULA CODAX (NCX) — SOVEREIGN 100% NATIVE PLATFORM
+The Ultimate Autarkic, Paranoid, Zero-Python Standalone Computational Architecture
+🌌 NUBULA CODAX
                                          │
         ┌────────────────────────────────┼────────────────────────────────┬────────────────────────────────┐
         ▼                                ▼                                ▼                                ▼

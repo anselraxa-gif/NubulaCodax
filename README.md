@@ -1,16 +1,18 @@
-🌌 NUBULA CODAX (NCX) — SOVEREIGN 100% NATIVE PLATFORM
-The Ultimate Autarkic, Paranoid, Zero-Python Standalone Computational Architecture
-🌌 NUBULA CODAX
-                                         │
-        ┌────────────────────────────────┼────────────────────────────────┬────────────────────────────────┐
-        ▼                                ▼                                ▼                                ▼
-1. Absolute Autarky              2. Paranoid Defense              3. Grand 70+ Registry            4. 100% Native Toolchain
-   ├─ Zero Python / Zero FFI        ├─ Cryptographic Traps           ├─ 75 State Variables            ├─ Native ncxc.exe Compiler
-   ├─ Hermetic Sanctuary Bubble     ├─ SHA-512 Annihilation          ├─ 8 Mathematical Categories     ├─ Direct g++ C++20 Codegen
-   └─ Strict Non-Coercion           └─ Anti-Decompiler Vortex        └─ Full Invariant Proofs         └─ Standalone .exe Binaries
-🛡️ 1. Core Architectural Directives
-🚫 I. Zero Python Policy (Complete Eradication)
-NubulaCodax does not contain, invoke, or wrap Python. The compiler (ncxc.exe), the runtime environment, the lexer, parser, type checker, the integrated IDE (NCSE), and the security defense matrix are 100% written and compiled in native C++20.
+# 🌌 NUBULA CODAX (NCX) — SOVEREIGN 100% NATIVE PLATFORM
+### *The Ultimate Autarkic, Paranoid, Zero-Python Standalone Computational Architecture*
+
+## 🏛️ Core Pillars
+1. **Absolute Autarky** : Zero Python / Zero FFI, Hermetic Sanctuary Bubble, Strict Non-Coercion.
+2. **Paranoid Defense** : Cryptographic Traps, SHA-512 Annihilation, Anti-Decompiler Vortex.
+3. **Grand Registry** : 75 State Variables across 8 Mathematical Categories with Full Invariant Proofs.
+4. **Native Toolchain** : Native `ncxc.exe` Compiler, Direct g++ C++20 Codegen, Standalone `.exe` Binaries.
+
+---
+
+## 🛡️ 1. Core Architectural Directives
+
+### 🚫 I. Zero Python Policy (Complete Eradication)
+NubulaCodax does not contain, invoke, or wrap Python. The compiler (`ncxc.exe`), the runtime environment, the lexer, parser, type checker, the integrated IDE (NCSE), and the security defense matrix are **100% written and compiled in native C++20**.
 
 🔒 II. Pure Autarky & Paranoid Defense
 The system rejects any foreign FFI, alien library bindings, or unprotected dynamic bridges. Any attempt to inject un-sanctified tokens or third-party hooks immediately triggers a Cryptographic Annihilation Response with a SHA-512 forensic isolation footprint.
